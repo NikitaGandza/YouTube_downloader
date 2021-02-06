@@ -1,2 +1,2 @@
-y = 1
+y = input('enter: ')
 print(y)
